@@ -45,3 +45,6 @@ docs/_build/
 
 # IPython notebook checkpoints
 .ipynb_checkpoints/
+
+# Misc
+.DS_Store
